@@ -9,7 +9,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7506251987773265674}
-  - component: {fileID: 7506251987773265673}
   m_Layer: 5
   m_Name: Menu
   m_TagString: Untagged
@@ -36,14 +35,6 @@ RectTransform:
   m_AnchoredPosition: {x: 128, y: 0}
   m_SizeDelta: {x: 240, y: 24}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &7506251987773265673
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7506251987773265675}
-  m_CullTransparentMesh: 1
 --- !u!1 &7506251987886020398
 GameObject:
   m_ObjectHideFlags: 0
