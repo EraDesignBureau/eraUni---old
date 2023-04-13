@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
-public class InputFieldElement : MonoBehaviour
+public class InputField : MonoBehaviour
 {
     [SerializeField]
     TMP_InputField inputField;
