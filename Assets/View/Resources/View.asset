@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2da3412c64dd994e9f67ed7dbaf2073, type: 3}
+  m_Name: View
+  m_EditorClassIdentifier: 
+  canUpdate: 1
+  animatedIconColor: {r: 255, g: 255, b: 255, a: 255}
+  gradients:
+  - {fileID: 3687336399933544727, guid: ec988561ebb74754d9ce660aaefbeb98, type: 3}
+  - {fileID: 3622762126769101142, guid: 866f93094bde19046a141d7e41ea8e2c, type: 3}
+  - {fileID: 4292077342520378305, guid: 26b90e1ac591f7641820e892e9435dc8, type: 3}
+  - {fileID: 6402947110529754089, guid: e26db30166bb2ee498cda39a5b64c7c3, type: 3}
+  - {fileID: 4830210042881487169, guid: ccb945916e6cb4742a380ec3a72fea02, type: 3}
+  - {fileID: 8038523274870643035, guid: 4e2781c27d82cbd4e9b45c95ff380fec, type: 3}
+  - {fileID: 7402372679493246566, guid: cab57a00ef555d74292a6b5b8577f725, type: 3}
+  button: {fileID: 7646530109930710733, guid: e4453daf3e1fd1a44a5a35951fcc0ec2, type: 3}
+  inputField: {fileID: 2328341165889927213, guid: db69fe7891bf10842ae502af0cc382c6, type: 3}

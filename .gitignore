@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Fuck Modern UI Pack
+[Aa]ssets/Modern UI Pack
+Assets/Modern UI Pack.meta
+Assets/Resources/TextMesh Pro/FontMaterials/SourceHanSansSCRegularMain.asset
